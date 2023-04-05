@@ -2,4 +2,8 @@ body{
 background-color: #00BFFF;
 color: white;
 }
+#imagemprincipal{
+    width: 600px;
+    height: 600px;
+}
 
