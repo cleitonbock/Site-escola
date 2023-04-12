@@ -9,4 +9,7 @@ color: white;
 #imagemjardim {
     width: 100px;
     height: 100px;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 20px;
 }
