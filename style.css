@@ -17,9 +17,9 @@ body{
 }
 
 h2{
-    color: black;
-}
-#escola{
     color: white;
+    display: flex;
+}
+
    
 }
