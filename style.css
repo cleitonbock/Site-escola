@@ -17,5 +17,6 @@ color: white;
 }
 
 #escola {
-    background-image:linear-gradient(#383d58 #00c0eb) ;
+    background-image:linear-gradient(#383d58 #00c0eb);
+    color: black;
 }
