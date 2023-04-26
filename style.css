@@ -1,6 +1,8 @@
-h1{
+#cabecalho{
     color: yellow;
     text-align: center;
+    display: flex;
+    justify-content: space-around;
 }
 
 body{
@@ -10,7 +12,6 @@ body{
 #jardim{
     width: 100px;
     height: 100px;
-    align-items: center;
    
 }
 #fotoescola{
