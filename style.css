@@ -25,9 +25,14 @@ body{
 #escola{
     color: white;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    padding: 24px 0;
     
+}
+
+#escola-titulo{
+    padding: 24px 0;
 }
 #conteudo{
     width: 35%;
