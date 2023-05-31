@@ -56,4 +56,8 @@ background-color: hsla(241, 100%, 46%, 0.418);
 #estudante-div{
     text-align: center;
 }
+#estudante-todos{
+    display: grid;
+    grid-template-columns: 20%  20%  20%  20%;
+}
    
